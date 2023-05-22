@@ -1,6 +1,6 @@
 # k8-operator-playground
 
-[Reference]("https://betterprogramming.pub/build-a-kubernetes-operator-in-10-minutes-11eec1492d30")
+[Reference](https://betterprogramming.pub/build-a-kubernetes-operator-in-10-minutes-11eec1492d30)
 
 ## Description
 
